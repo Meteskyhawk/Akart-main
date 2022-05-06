@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466807509981",
+    "project_id": "reminder-med",
+    "storage_bucket": "reminder-med.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466807509981:android:505e1d6b47fd55dd745c34",
+        "android_client_info": {
+          "package_name": "com.example.akartdesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466807509981-vjjqh180vq9asd779mbrdcco0qpn6ubi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8ZTGwQTzaTFim2sNe5doHNlLla8Iiaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466807509981-vjjqh180vq9asd779mbrdcco0qpn6ubi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
